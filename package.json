@@ -1,0 +1,12 @@
+{
+	"name": "CydeaOS-Server",
+	"version": "0.9.5",
+	"description": "Project Cydea's Pride and Glory - Server Side Scripting and Interface",
+	"dependencies": {
+		"express": "^4.15.2",
+		"mysql": "^2.16.0",
+		"mysql2": "^1.5.3",
+		"sha256": "^0.2.0",
+		"socket.io": "^2.0.4"
+	}
+}

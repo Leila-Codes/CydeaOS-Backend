@@ -1,0 +1,9 @@
+{
+    "dbconf":{
+        "host": "pke6.de",
+        "port": 3307,
+        "user": "webhack.co.uk",
+        "password": "LEXfqdZFRY",
+        "database": "webhack.co.uk"
+    }
+}
